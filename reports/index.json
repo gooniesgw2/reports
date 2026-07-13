@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260319-205600-zkoe",
+      "title": "Vasnia",
+      "commanders": [
+        "Vasnia"
+      ],
+      "dateStart": "2026-03-20T00:56:00.000Z",
+      "dateEnd": "2026-03-20T02:22:15.000Z",
+      "dateLabel": "3/19/2026, 8:56:00 PM - 3/19/2026, 10:22:15 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260319-205600-zkoe",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260514-203622-8nug",
       "title": "Kabar Of Wapsie, Vibe Check Vasnia, Voiduss",
       "commanders": [

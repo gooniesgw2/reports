@@ -1,40 +1,80 @@
-[
-  {
-    "id": "20260709-221355-etqo",
-    "title": "Vibe Check Vasnia",
-    "commanders": [
-      "Vibe Check Vasnia"
-    ],
-    "dateStart": "2026-07-10T02:13:55.000Z",
-    "dateEnd": "2026-07-10T02:53:34.000Z",
-    "dateLabel": "7/9/2026, 10:13:55 PM - 7/9/2026, 10:53:34 PM",
-    "url": "https://gooniesgw2.github.io/reports/?report=20260709-221355-etqo",
-    "summary": {
-      "borderlandsPct": 0.9859154929577465,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 52,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
+{
+  "colorPalette": "slate-silver",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260514-203622-8nug",
+      "title": "Kabar Of Wapsie, Vibe Check Vasnia, Voiduss",
+      "commanders": [
+        "Kabar Of Wapsie",
+        "Vibe Check Vasnia",
+        "Voiduss"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 26
+      "dateStart": "2026-05-15T00:36:22.000Z",
+      "dateEnd": "2026-05-15T02:45:29.000Z",
+      "dateLabel": "5/14/2026, 8:36:22 PM - 5/14/2026, 10:45:29 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260514-203622-8nug",
+      "summary": {
+        "borderlandsPct": 0.967741935483871,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260709-221355-etqo",
+      "title": "Vibe Check Vasnia",
+      "commanders": [
+        "Vibe Check Vasnia"
+      ],
+      "dateStart": "2026-07-10T02:13:55.000Z",
+      "dateEnd": "2026-07-10T02:53:34.000Z",
+      "dateLabel": "7/9/2026, 10:13:55 PM - 7/9/2026, 10:53:34 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260709-221355-etqo",
+      "summary": {
+        "borderlandsPct": 0.9859154929577465,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 52,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 26
+      }
     }
-  }
-]
+  ]
+}

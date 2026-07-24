@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-210635-vvj0",
+      "title": "Kabar Of Wapsie",
+      "commanders": [
+        "Kabar Of Wapsie"
+      ],
+      "dateStart": "2026-07-24T01:06:35.000Z",
+      "dateEnd": "2026-07-24T01:52:00.000Z",
+      "dateLabel": "7/23/2026, 9:06:35 PM - 7/23/2026, 9:52:00 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260723-210635-vvj0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260319-205600-zkoe",
       "title": "Vasnia",
       "commanders": [

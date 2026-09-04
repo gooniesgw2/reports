@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-215909-axfx",
+      "title": "Kabar Of Wapsie",
+      "commanders": [
+        "Kabar Of Wapsie"
+      ],
+      "guild": {
+        "id": "A1C35538-829F-4E1B-8289-8A40920E0577",
+        "name": "Goonies",
+        "tag": "Goon"
+      },
+      "dateStart": "2026-09-04T01:59:09.000Z",
+      "dateEnd": "2026-09-04T03:28:34.158Z",
+      "dateLabel": "9/3/2026, 9:59:09 PM - 9/3/2026, 11:28:34 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260903-215909-axfx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260827-211248-qfce",
       "title": "Kabar Of Wapsie",
       "commanders": [

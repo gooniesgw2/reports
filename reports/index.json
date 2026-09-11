@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-205419-0nqd",
+      "title": "Kabar Of Wapsie",
+      "commanders": [
+        "Kabar Of Wapsie"
+      ],
+      "guild": {
+        "id": "A1C35538-829F-4E1B-8289-8A40920E0577",
+        "name": "Goonies",
+        "tag": "Goon"
+      },
+      "dateStart": "2026-09-11T00:54:19.000Z",
+      "dateEnd": "2026-09-11T01:53:08.505Z",
+      "dateLabel": "9/10/2026, 8:54:19 PM - 9/10/2026, 9:53:08 PM",
+      "url": "https://gooniesgw2.github.io/reports/?report=20260910-205419-0nqd",
+      "summary": {
+        "borderlandsPct": 0.6875,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260903-215909-axfx",
       "title": "Kabar Of Wapsie",
       "commanders": [
